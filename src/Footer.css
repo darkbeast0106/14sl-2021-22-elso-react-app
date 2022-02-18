@@ -1,0 +1,15 @@
+footer ul {
+    list-style-type: none;
+}
+
+footer ul li a {
+    color:green;
+}
+
+footer ul li a:visited {
+    color:red;
+}
+
+footer ul li a:hover {
+    color:limegreen;
+}
