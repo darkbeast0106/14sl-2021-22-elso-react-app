@@ -1,0 +1,17 @@
+footer {
+    ul{
+        list-style-type: none;
+        li{
+            a{
+                color:green;
+                &:visited{
+                    color:red;
+                }
+                &:hover{
+                    color:aqua;
+                }
+
+            }
+        }
+    }
+}
